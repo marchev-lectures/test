@@ -3,7 +3,7 @@ youtubeId: lDi9uFcD7XI
 
 **Playlist за МПУ:** 2021-09-27-MPU
 
-<!--{% include youtubePlayer.html id=page.youtubeId %}-->
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 
