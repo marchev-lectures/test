@@ -3,7 +3,9 @@ youtubeId: lDi9uFcD7XI
 
 **Playlist за МПУ:** 2021-09-27-MPU
 
-{% include youtubePlayer.html id=page.youtubeId %}
+<!--{% include youtubePlayer.html id=page.youtubeId %}-->
+
+<iframe src="https://www.youtube.com/embed/lDi9uFcD7XI" width="700" height="480" frameborder="0" allowfullscreen=""></iframe>
 
 [https://youtube.com/playlist?list=PLX9ryRl9v7BD-PaKbxayefKsDdcN31FUR](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2Fplaylist%3Flist%3DPLX9ryRl9v7BD-PaKbxayefKsDdcN31FUR%26fbclid%3DIwAR3G4JHcM2iCWlhKn-hDya7TD5ZKlAwwg5WmQXHh4WiVRempgcoPPeLqcmU&h=AT08LI66gJlPbBxxXX1qOxJheqIFh4K6vOmp5NDeHvZeh0zc8jeEApcjFh1ccsEw1es5hKH-f2S7gC4FFnsfEcdNTMVfZXZK4SdSRaNeAfnnw1d0S-hCvzBmSZczO0LIoeXzHg)
 
