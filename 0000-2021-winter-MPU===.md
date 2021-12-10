@@ -8,7 +8,7 @@
 **Това не е нашата песничка. [00-01-Connie Francis - Que Sera
 Sera.mpg.mp4](00-01-Connie%20Francis%20-%20Que%20Sera%20Sera.mpg.mp4)**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\MPU-begin.PNG](media/image1.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\MPU-begin.PNG](media/media/image1.png)
 
 **Поздравления с ‘наша’ песничка.
 <https://www.youtube.com/watch?v=asDXpfFMKNA>**
@@ -42,7 +42,7 @@ STUDENTS**
 **Pinned Post: Всички важни линкове. Преглед.
 **
 
-![](media/image2.png)
+![](media/media/image2.png)
 
 ## Мотивационна проповед. Послание към 4-ти курс. МПУ = добре платената професия + много интересна + много полезна.
 
@@ -128,7 +128,7 @@ Junior проведе упражнения по МПУ в рейса за Лар
 
 Почваме да я правим сега\! Ще я ядете в следващите години.
 
-![](media/image3.png)
+![](media/media/image3.png)
 
 Успешно взета, дисциплината:
 
@@ -147,7 +147,7 @@ Junior проведе упражнения по МПУ в рейса за Лар
 > 
 > **(МАЛКИ И ГОЛЕМИ)**
 > 
-> ![CRW\_5203\_bw\_crop](media/image4.png)
+> ![CRW\_5203\_bw\_crop](media/media/image4.png)
 > 
 > **Prof. Angel Marchev, Jr. has been educated by computer games since
 > the age of four. By the time he finished high school he already
@@ -156,7 +156,7 @@ Junior проведе упражнения по МПУ в рейса за Лар
 > teaches variety of courses and has excelled at implementing active
 > methods in all of them. He is a Ph.D. candidate at modeling.**
 > 
-> ![D7DR2530](media/image5.jpeg)
+> ![D7DR2530](media/media/image5.jpeg)
 > 
 > **Prof. Ph.D. Eng. Angel Marchev is one of the pioneers of
 > implementing computer business games and active methods in education
@@ -246,16 +246,16 @@ quiz (начален, за проба и за ‘преброяване на д�
   - <https://www.youtube.com/watch?v=_O_Gbz1noTM>
 
 > ![A screenshot of a video game Description automatically
-> generated](media/image6.jpeg) ![A screenshot of a video game
-> Description automatically generated](media/image7.jpeg) ![A picture
-> containing text, screenshot Description automatically
-> generated](media/image8.jpeg)
+> generated](media/media/image6.jpeg) ![A screenshot of a video game
+> Description automatically generated](media/media/image7.jpeg) ![A
+> picture containing text, screenshot Description automatically
+> generated](media/media/image8.jpeg)
 
 ## Начин на оценяване, НЛО, нормални и зубри
 
   - 
-> ![C:\\Users\\Transhuman\\Desktop\\vlcsnap-2020-09-20-23h25m15s803.png](media/image9.png)
-> ![](media/image10.png)
+> ![C:\\Users\\Transhuman\\Desktop\\vlcsnap-2020-09-20-23h25m15s803.png](media/media/image9.png)
+> ![](media/media/image10.png)
 
 ## графика
 
@@ -266,7 +266,8 @@ quiz (начален, за проба и за ‘преброяване на д�
 променя\!
 <https://docs.google.com/spreadsheets/d/1mIAVKl0WNGw6byrVRJa52wKEDniTsgSBTUGIt8nV6Nc/edit#gid=0>**
 
-> ![Timeline Description automatically generated](media/image11.png)
+> ![Timeline Description automatically
+> generated](media/media/image11.png)
 > 
 > **МАЛКО ОРГАНИЗАЦИЯ**
 
@@ -404,7 +405,7 @@ español](00-02-you%20are%20my%20destiny%20Paul%20Anka%20subtitulada%20español.
 ## 2021-09-26-09-00….ХХХХХХХХХХХХХХХ
 
 [**звук**](01%20-%20Antonio%20Vivaldi%20-%20Concerto%201%20Spring%20-%20Allegro.mp3)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\MPU-begin.PNG](media/image1.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\MPU-begin.PNG](media/media/image1.png)
 
 ## тютори
 
@@ -443,8 +444,8 @@ español](00-02-you%20are%20my%20destiny%20Paul%20Anka%20subtitulada%20español.
 
 # ЧАСТ 1. ПРОГНОЗИРАНЕ
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\forecasting\\120802585\_1461987710671293\_4517692881973507318\_n.jpg](media/image12.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\forecasting\\120337403\_337733604153678\_4963771348200419997\_n.jpg](media/image13.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\forecasting\\120802585\_1461987710671293\_4517692881973507318\_n.jpg](media/media/image12.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\forecasting\\120337403\_337733604153678\_4963771348200419997\_n.jpg](media/media/image13.jpeg)
 
 Текст от записа
 
@@ -655,7 +656,8 @@ Kamo доказателстбо лечение хора взимане реше�
 обаче, този nogxog не само GUA неефективен, но често водел опустошителни
 xopama последствия. личното мнение, DUлO mo експерти, гледна точка,
 преценка, коrmо често основана субектибни неизмерими фактори KORMO
-може cчuma за оконачателна общовалидна. SCIENCE'](media/image14.jpeg)
+може cчuma за оконачателна общовалидна.
+SCIENCE'](media/media/image14.jpeg)
 
 ### Същност на експертните методи. 
 
@@ -718,7 +720,7 @@ xopama последствия. личното мнение, DUлO mo експе�
 Първото приложение на метода ‘Делфи” в България е описано в
 \[10\].
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Expert-ocenki\\120840902\_637641450454894\_1914943520642066401\_n.jpg](media/image15.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Expert-ocenki\\120840902\_637641450454894\_1914943520642066401\_n.jpg](media/media/image15.jpeg)
 
 ‘Делфи’ е систематичен и рационален метод за събиране на субективни
 мнения на експерти. Всеки експерт независимо и анонимно попълва
@@ -813,7 +815,7 @@ xopama последствия. личното мнение, DUлO mo експе�
     се необходимостта от провеждане на нов тур от изследването. Типичния
     графичен вид на една прогноза изглежда така:
 
-![](media/image16.png)
+![](media/media/image16.png)
 
 7.  **Формулиране на уточнени въпроси и провеждане на нов тур.** Нов тур
     се провежда, когато интервалът на разсейване (разликата между първи
@@ -828,8 +830,8 @@ xopama последствия. личното мнение, DUлO mo експе�
     няколко последователни
 > итерации.
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Form-delphi.jpg](media/image17.jpeg)
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Delphi-param.jpg](media/image18.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Form-delphi.jpg](media/media/image17.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Delphi-param.jpg](media/media/image18.jpeg)
 
 8.  **Оформяне на резултатите от проведеното изследване.** Когато
     въпреки всички мерки за повишаване на съгласието между
@@ -841,7 +843,7 @@ xopama последствия. личното мнение, DUлO mo експе�
     разсейване и аргументации), придружени със съответните анализи и
     коментари, се представят в удобен за използване вид.
 
-![No description available.](media/image19.jpeg)
+![No description available.](media/media/image19.jpeg)
 
 9.  **Оценка на компетентността на експертите.** Компетентността на
     експертите е ключев фактор за точността на прогнозиране. В
@@ -887,9 +889,9 @@ xopama последствия. личното мнение, DUлO mo експе�
 
 ### Методи на ранговата корелация. 
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Expert-ocenki\\120590177\_662609267704191\_9118165750826750464\_n.jpg](media/image20.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Expert-ocenki\\120590177\_662609267704191\_9118165750826750464\_n.jpg](media/media/image20.jpeg)
 ![A black and white photo of a tombstone Description automatically
-generated with low confidence](media/image21.jpeg)
+generated with low confidence](media/media/image21.jpeg)
 
 В много управленски ситуации, възниква задачата за подреждане (или
 приоритизиране) на някакви обекти по степента на изява на техен
@@ -1091,17 +1093,17 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
     (наличието на школи), или източниците на противоречия между
     експертите (виж примерите по-долу).
 
-![](media/image30.png)
+![](media/media/image30.png)
 
 Взаимовръзки между мненията в експертната група (включително груповото
 мнение):
 
-![](media/image31.png)
+![](media/media/image31.png)
 
 Взаимовръзки между мненията в експертна група (без отчитане на груповото
 мнение):
 
-![](media/image32.png)
+![](media/media/image32.png)
 
 **Снимки на
 отчети**
@@ -1119,7 +1121,7 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 **Куиз 1.
 Младши**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\MPU-begin.PNG](media/image1.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\MPU-begin.PNG](media/media/image1.png)
 
 **Екстраполационни методи за прогнозиране**
 
@@ -1216,9 +1218,9 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 **По данни от досегашното развитие на процеса да се оценят бъдещите му
 стойности (с определена степен на точност).**
 
-![](media/image33.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/image34.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Black-box-view-of-System-Identification.png](media/image35.png)
+![](media/media/image33.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/media/image34.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Black-box-view-of-System-Identification.png](media/media/image35.png)
 
 **Y (Т) – реални стойности на изследвания процес**
 
@@ -1231,7 +1233,7 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 **F(Т) – изчислени стойности от прогнозиращата
 функция**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\moving-average-chart-eg2.jpg](media/image36.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\moving-average-chart-eg2.jpg](media/media/image36.jpeg)
 
 Емпирично правило: L ≤ (1/3, 1/2) D
 
@@ -1241,7 +1243,7 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 бъдеще. Хипотеза за
 стационарност.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Extrap-hipot.png](media/image37.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Extrap-hipot.png](media/media/image37.png)
 
 От тази гледна точка, база за всички методи за прогнозиране чрез
 екстраполация се явява предположението, че действали в миналото
@@ -1490,7 +1492,7 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 > **решаващ фактор;
 > **
 > 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\black-box\\black-box-1-1.jpg](media/image38.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\black-box\\black-box-1-1.jpg](media/media/image38.jpeg)
 > 
 > **Линейна:**
 > 
@@ -1531,11 +1533,11 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 > **всичко е взаимосвързано.
 **
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/image34.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Black-box-view-of-System-Identification.png](media/image35.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/image34.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/media/image34.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Black-box-view-of-System-Identification.png](media/media/image35.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/media/image34.png)
 
-![](media/image39.png)
+![](media/media/image39.png)
 
 Идентификация на СЕУ
 
@@ -1566,7 +1568,7 @@ X<sup>2</sup><sub>теор.</sub> \< X<sup>2</sup><sub>емп. </sub>
 закъснения (лаговите променливи). Лично съм го чертал на
 милиметровка. **
 
-![](media/image40.png)
+![](media/media/image40.png)
 
 **КУИЗ 2. младши**
 
@@ -1739,7 +1741,7 @@ D - правоъгълна матрица (n x m) от коефициентит�
 МСЕУ винаги може да бъде представен в три форми: структурна,
 редуцирана и рекурсивна.**
 
-> ![Recursive and non-recursive models](media/image43.jpeg)
+> ![Recursive and non-recursive models](media/media/image43.jpeg)
 
 **Взаимозависимите МСЕУ** предполагат наличието на някакъв цикъл в
 зависимостите между ендогенните променливи. Дадена ендогенна
@@ -1766,7 +1768,7 @@ D - правоъгълна матрица (n x m) от коефициентит�
 милиметровка. **
 
 > ![Diagram, schematic Description automatically
-> generated](media/image40.png)
+> generated](media/media/image40.png)
 
 **Идентификация на СЕУ**
 
@@ -1883,7 +1885,7 @@ D - правоъгълна матрица (n x m) от коефициентит�
 Foundation Isaac Asimov
 
 ![A soundtrack for Foundation by Isaac Asimov \#ambient \#scifi \#asimov
-- YouTube](media/image44.jpeg)
+- YouTube](media/media/image44.jpeg)
 
 **СЕУ, описващи общественото развитие на Вселената. **
 
@@ -1912,7 +1914,7 @@ Foundation Isaac Asimov
 
 ### Метод на псевдопрогнозата. 
 
-![Table Description automatically generated](media/image45.png)
+![Table Description automatically generated](media/media/image45.png)
 
 Създателите на модели за прогнозиране често надценяват качеството на
 прогнозите, генерирани от тези модели. Причината за това е липсата
@@ -2003,36 +2005,36 @@ Gauß**](https://upload.wikimedia.org/wikipedia/commons/a/a1/De-carlfriedrichgau
 **(Princeps
 mathematicorum)**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фридрих-Гаус.jpg](media/image46.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\10-marki-gaus-700x348.jpg](media/image47.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фридрих-Гаус.jpg](media/media/image46.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\10-marki-gaus-700x348.jpg](media/media/image47.jpeg)
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\standard-normal-distribution-with-probabilities.png](media/image48.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\standard-normal-distribution-with-probabilities.png](media/media/image48.png)
 > 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\regres-to-the-mean.png](media/image49.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\regres-to-the-mean.png](media/media/image49.png)
 > 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Galton-original.gif](media/image50.gif)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Galton-original.gif](media/media/image50.gif)
 
 **Регресионно уравнение, прогнозиращо положението на
 > луната:**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\телескоп.jpg](media/image51.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\телескоп.jpg](media/media/image51.jpeg)
 
 **Уравнение на елипса (конично
 > сечение):**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\елипса.png](media/image52.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\елипса.png](media/media/image52.png)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Table-of-Observations.png](media/image53.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\lin-regr.png](media/image54.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Table-of-Observations.png](media/media/image53.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\lin-regr.png](media/media/image54.png)
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\black-box-1-1.jpg](media/image38.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\black-box-1-1.jpg](media/media/image38.jpeg)
 
 **Производствена функция (от Ал. Димитров (ур.на прогресия) до Последния
 Мохикан)**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\прод-фунц.jpg](media/image55.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\прод-фунц.jpg](media/media/image55.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\прод-фунц-жар.jpg](media/image56.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\прод-фунц-жар.jpg](media/media/image56.jpeg)
 
 **Един истински научен подвиг. Открива планета с върха на перото, след
 30 години изчисления и 900 литра мастило. **
@@ -2040,7 +2042,7 @@ mathematicorum)**
 **Koj be\[e
 > tozi**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\solar-system.jpg](media/image57.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\solar-system.jpg](media/media/image57.jpeg)
 
 ### Упражнение с LINEST
 
@@ -2064,7 +2066,7 @@ mathematicorum)**
 > (01:00)**
 
 ![A picture containing text, whiteboard, blurry Description
-automatically generated](media/image58.png)
+automatically generated](media/media/image58.png)
 
 **Блок-схема**
 
@@ -2089,7 +2091,7 @@ automatically generated](media/image58.png)
 
 Звук=кафе
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\MPU-begin.PNG](media/image1.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\MPU-begin.PNG](media/media/image1.png)
 
 ## Оценка на коефициентите в математическото описание (прогнозиращата функция)
 
@@ -2173,27 +2175,27 @@ automatically generated](media/image58.png)
 > **Типични за описани на развитието на определена
 технология.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\01fig02.jpg](media/image59.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\01fig02.jpg](media/media/image59.jpeg)
 
 **Криви на
 обучение:**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\maxresdefault.jpg](media/image60.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\maxresdefault.jpg](media/media/image60.jpeg)
 
 **Характерни
 > фази:**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\unnamed.jpg](media/image61.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\unnamed.jpg](media/media/image61.jpeg)
 > 
 > **Припокриване на стара и нова
 технология:**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\s-curve.jpg](media/image62.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\s-curve.jpg](media/media/image62.jpeg)
 
 **Прогнозиране по ‘обвиваща
 крива’:**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\sociotechrev.jpg](media/image63.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\S-curve\\sociotechrev.jpg](media/media/image63.jpeg)
 
 **Пример от ФМУ:**
 
@@ -2212,7 +2214,7 @@ automatically generated](media/image58.png)
 > **Ерих
 Янч**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120801645\_638670656836887\_1743418413235819712\_n.jpg](media/image64.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120801645\_638670656836887\_1743418413235819712\_n.jpg](media/media/image64.jpeg)
 
 ### Обща схема за оценка на коефициентите в математическото описание.
 
@@ -2222,7 +2224,7 @@ automatically generated](media/image58.png)
 на модели на сложни системи. Контур ‘Настройка на коефициентите’.
 > **
 
-> ![G:\\1-DISCIPLINI\\MPU\\1-1-MPU-uch-posobia\\03-2011\_05\_15-IMSS-metodika-nedow\\IMG\_0162.jpg](media/image65.jpeg)
+> ![G:\\1-DISCIPLINI\\MPU\\1-1-MPU-uch-posobia\\03-2011\_05\_15-IMSS-metodika-nedow\\IMG\_0162.jpg](media/media/image65.jpeg)
 
 ### автоматизация
 
@@ -2230,11 +2232,11 @@ automatically generated](media/image58.png)
 се автоматизирам. Светът също се автоматизираше. Процесът продължава\!
 **
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\телетайп.jpg](media/image66.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\телетайп.jpg](media/media/image66.jpeg)
 
 **Същото, но именно за прогнозиращи функции (по лекциите):**
 
-![No description available.](media/image67.png)
+![No description available.](media/media/image67.png)
 
 ### Алгоритми и принципи
 
@@ -2289,13 +2291,13 @@ automatically generated](media/image58.png)
 представителната точка по повърхността и траекториите в
 > равнината.**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\gaPeaksExample\_03.png](media/image68.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\gaPeaksExample\_03.png](media/media/image68.png)
 
 **Само равнината на проектиране. Два параметъра. Линии на ниво.
 Траектория към
 минимума.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Minimization-levmar-Levenberg-Marquardt-Algorithm.gif](media/image69.gif)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Minimization-levmar-Levenberg-Marquardt-Algorithm.gif](media/media/image69.gif)
 
 **Да си представим, че това е картата на Черно море, а ние имаме корабче
 с ехолот и търсим най-дълбоката точка. **
@@ -2305,8 +2307,8 @@ automatically generated](media/image58.png)
 **(Всичко по-долу съм го програмирал лично. Преди 1000 години
 > 😊)**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\boat.jpg](media/image70.jpeg)
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\boat.jpg](media/image71.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\boat.jpg](media/media/image70.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\boat.jpg](media/media/image71.jpeg)
 
 **Анимация на корабчето**
 
@@ -2319,9 +2321,9 @@ automatically generated](media/image58.png)
 > минимума.**
 
 > ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\download
-> (1).jpg](media/image72.jpeg)
+> (1).jpg](media/media/image72.jpeg)
 > 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\gaus-seidel.png](media/image73.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\gaus-seidel.png](media/media/image73.png)
 
 ### Градиентен мето
 
@@ -2330,13 +2332,13 @@ automatically generated](media/image58.png)
 баира. Обичате диференциалното смятане. (Виж и във ФБ
 групата).**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\grad\_descent.png](media/image74.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\grad\_descent.png](media/media/image74.png)
 
 **Пак за градиентния метод (ако сте нежна капка роса, ще минете по
 същата
 траектория):**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\gradient.jpg](media/image75.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\gradient.jpg](media/media/image75.jpeg)
 
 ### Симплекс метод
 
@@ -2354,7 +2356,7 @@ automatically generated](media/image58.png)
 **Ще го оставя на Мая
 Ламбовска.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\simplex.png](media/image76.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\simplex.png](media/media/image76.png)
 
 ### Нелдер-Мийд
 
@@ -2365,9 +2367,9 @@ automatically generated](media/image58.png)
 пролом’, променя стъпката на придвижване в зависимост от
 ‘терена’.**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\Nedler-Mead-one-min.png](media/image77.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\Nedler-Mead-one-min.png](media/media/image77.png)
 > 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\Nedler-mead.png](media/image78.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\Nedler-mead.png](media/media/image78.png)
 
 [**https://www.youtube.com/watch?v=asDXpfFMKNA**](https://www.youtube.com/watch?v=asDXpfFMKNA)
 
@@ -2378,10 +2380,10 @@ automatically generated](media/image58.png)
 Примери при синтез на модели.
 **
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\maxresdefault.jpg](media/image79.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\maxresdefault.jpg](media/media/image79.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120765175\_334766564456928\_591447032565963281\_n.jpg](media/image80.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\G-Gatev\\120607670\_667132270582739\_6325845310271524681\_n.jpg](media/image81.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120765175\_334766564456928\_591447032565963281\_n.jpg](media/media/image80.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\G-Gatev\\120607670\_667132270582739\_6325845310271524681\_n.jpg](media/media/image81.jpeg)
 
 ### хиперболичен параболоид
 
@@ -2393,7 +2395,7 @@ automatically generated](media/image58.png)
 взаимно.
 **
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\download.jpg](media/image82.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\download.jpg](media/media/image82.jpeg)
 
 ### глобален минимум
 
@@ -2410,9 +2412,9 @@ automatically generated](media/image58.png)
 Компютрите са нашите танкове\!
 )**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\1-s2.0-S0020025515003680-gr2.jpg](media/image83.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\1-s2.0-S0020025515003680-gr2.jpg](media/media/image83.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\1200px-Hyperparameter\_Optimization\_using\_Random\_Search.svg.png](media/image84.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\1200px-Hyperparameter\_Optimization\_using\_Random\_Search.svg.png](media/media/image84.png)
 
 ### Комбинирани методи
 
@@ -2425,7 +2427,7 @@ automatically generated](media/image58.png)
 **Dobawki kym
 > kombinirani**
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\Example-of-a-nonlinear-optimization-problem-with-the-humpback-function-as-objective.png](media/image85.png)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\Example-of-a-nonlinear-optimization-problem-with-the-humpback-function-as-objective.png](media/media/image85.png)
 
 **‘Телепатични амеби се блъскат в тарабите на многомерното
 пространство.’ **
@@ -2437,7 +2439,7 @@ automatically generated](media/image58.png)
 **Запис за
 амебата??**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\pso-graphic.png](media/image86.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\optimisation\\pso-graphic.png](media/media/image86.png)
 
 ### Упражнение със SOLVER
 
@@ -2550,7 +2552,7 @@ Yogurt Business Game. За целта ми се обадете, до 15 окто
 
 Определения и основни понятия. Модел. Моделиране.
 
-![](media/image87.png)
+![](media/media/image87.png)
 
 Анализ на различни определения за понятието ‚модел‘. Твърде дълго.
 Статистически модел; графичен модел; математически модел;
@@ -2582,8 +2584,8 @@ Yogurt Business Game. За целта ми се обадете, до 15 окто
 > моделираната система и позволява да се извършат числени
 > експерименти с модела вместо с моделираната система.**
 > 
-> ![Diagram Description automatically generated](media/image89.png)
-> **What …. If ….? **
+> ![Diagram Description automatically
+> generated](media/media/image89.png) **What …. If ….? **
 
 ## Видове модели.
 
@@ -2596,15 +2598,16 @@ Yogurt Business Game. За целта ми се обадете, до 15 окто
 > Белмекен – Сестримо Кольо
 Фичето
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\белмекен-сестримо.jpg](media/image90.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\мост-Ловеч.jpg](media/image91.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\белмекен-сестримо.jpg](media/media/image90.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\мост-Ловеч.jpg](media/media/image91.jpeg)
 
 ### аналогови модели
 
 аналогови модели: едно и също математическо описание на различни по
 своята природа процеси =\> аналогови модели в различни среди
 
-![Calendar Description automatically generated](media/image92.jpeg)
+![Calendar Description automatically
+generated](media/media/image92.jpeg)
 
 електролитен модел; хидравлични: MONIAC; Кембриджки хидравличен модел на
 икономиката; ХТИ; Упражнението за кат. Автоматика със Стойчо;
@@ -2612,19 +2615,19 @@ Yogurt Business Game. За целта ми се обадете, до 15 окто
 Механични: Буш; дискови интегратори
 (?);
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\1.jpg](media/image93.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\MONIAC.jpg](media/image94.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\1.jpg](media/media/image93.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\MONIAC.jpg](media/media/image94.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Bush-analog.jpg](media/image95.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Bush-analog.jpg](media/media/image95.jpeg)
 
 Електронни: Analog 1, Analog
 2
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\260px-X-15\_Analog\_computer.jpg](media/image96.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\analog-shema.jpg](media/image97.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\260px-X-15\_Analog\_computer.jpg](media/media/image96.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\analog-shema.jpg](media/media/image97.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\analog-connect.jpg](media/image98.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\okabelqwane.jpg](media/image99.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\analog-connect.jpg](media/media/image98.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\okabelqwane.jpg](media/media/image99.jpeg)
 
 ### компютърни модели
 
@@ -2637,13 +2640,13 @@ Demo
 
 ### Forrester 
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\18Forrester-Obit1-superJumbo.jpg](media/image100.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\18Forrester-Obit1-superJumbo.jpg](media/media/image100.jpeg)
 ![Graphical user interface, application Description automatically
-generated](media/image101.png)
+generated](media/media/image101.png)
 
 ### NORAD
 
-![](media/image102.gif) ![](media/image103.jpeg)
+![](media/media/image102.gif) ![](media/media/image103.jpeg)
 
 Истинска имитация – книгата на Пери Розов. Промяна на организацията на
 противо въздушната отбрана. Симулация на външната среда със записи на
@@ -2656,16 +2659,16 @@ generated](media/image101.png)
 Flight simulators. Тренажори. От физическо подобие към компютърен модел.
 Към VR.
 
-![](media/image104.jpeg) …..
+![](media/media/image104.jpeg) …..
 
 ### [Аналитични и имитационни модели. 188](#_Toc465408416)
 
 [Аналитични и имитационни модели.
 188](#_Toc465408416)
 
-![](media/image105.png)
+![](media/media/image105.png)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\maxvel-equations-integralno.jpg](media/image106.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\maxvel-equations-integralno.jpg](media/media/image106.jpeg)
 
 ## [Имитационно моделиране. Имитационен модел. Имитация. 184](#_Toc465408415)
 
@@ -2730,7 +2733,7 @@ what \<Следствия\> IF \<сценарий\>?
 **+ моята концепция за курса, а и за Света.
 😊**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Capture.PNG](media/image107.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Capture.PNG](media/media/image107.png)
 
 **Подходите в моделирането всъщност са философски въпроси. Споровете
 продължават и до днес. **
@@ -2738,9 +2741,9 @@ what \<Следствия\> IF \<сценарий\>?
 **ГАВРАИЛ ДАНИЛ И
 МИХАИЛ**
 
-![C:\\Users\\Т.С.О-УНСС\\Desktop\\DSCF0005\_edited.JPG](media/image108.jpeg)
+![C:\\Users\\Т.С.О-УНСС\\Desktop\\DSCF0005\_edited.JPG](media/media/image108.jpeg)
 ![A group of people in a room Description automatically generated with
-low confidence](media/image109.png)
+low confidence](media/media/image109.png)
 
 **Материализъм или идеализъм. Познаваемост на света. **
 
@@ -2749,25 +2752,25 @@ low confidence](media/image109.png)
 **Дедукция и индукция.
 **
 
-![G:\\1-DISCIPLINI\\OU-CYB\\1-1-History-of-management-thought\\01-2-Aristotel\\platon20aristote.jpg](media/image110.jpeg)
-![G:\\1-DISCIPLINI\\OU-CYB\\1-1-History-of-management-thought\\01-2-Aristotel\\Raphael.jpg](media/image111.jpeg)
+![G:\\1-DISCIPLINI\\OU-CYB\\1-1-History-of-management-thought\\01-2-Aristotel\\platon20aristote.jpg](media/media/image110.jpeg)
+![G:\\1-DISCIPLINI\\OU-CYB\\1-1-History-of-management-thought\\01-2-Aristotel\\Raphael.jpg](media/media/image111.jpeg)
 
 **Причинно-следствени връзки. Взаимна зависимост между явленията.
 Редукционизъм или холизъм. Науки за сложността.**
 
-![Map Description automatically generated](media/image112.jpeg)
+![Map Description automatically generated](media/media/image112.jpeg)
 
 **Обективна и субективна истина. Независимият наблюдател. Ролята на
 аналитика.
 **
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Second-Ord-Cyberntics.png](media/image113.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Second-Ord-Cyberntics.png](media/media/image113.png)
 
 **Данни и реални явления. Априорна и апостериорна
 информация.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Black-box-view-of-System-Identification.png](media/image35.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/image34.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Black-box-view-of-System-Identification.png](media/media/image35.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Data.PNG](media/media/image34.png)
 
 **Научният метод. Кой е учен? Научната философия. STEM. Разширено
 разбиране за ‚наука‘. Изследователските университети.**
@@ -2867,8 +2870,8 @@ experiment.**
 Оперна певица, обущар, моделиер
 …
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120553885\_634353667278994\_6622692414388943993\_n.jpg](media/image114.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120552211\_340740647236675\_7755442977887937577\_n.jpg](media/image115.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120553885\_634353667278994\_6622692414388943993\_n.jpg](media/media/image114.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120552211\_340740647236675\_7755442977887937577\_n.jpg](media/media/image115.jpeg)
 
 Интуитивния подход при изграждането на модели има смисъл, когато се
 строи нещо, което още не съществува (като 'модели на ядрената
@@ -2886,7 +2889,7 @@ of Growth.* Денис и Дoнела Медоус. IPCC reports. Макро и�
 модели.
 
 ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Cover\_first\_edition\_Limits\_to\_growth
-(1).jpg](media/image116.jpeg)
+(1).jpg](media/media/image116.jpeg)
 
 Познавам ги лично; NASAGA/ISAGA/BASAGA; подобни макро икономически игри;
 обмен на педагогически трикове (РК срещу въжето)
@@ -2902,18 +2905,18 @@ of Growth.* Денис и Дoнела Медоус. IPCC reports. Макро и�
 динамични звена от Теория на автоматичното
 управление)**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\18Forrester-Obit1-superJumbo.jpg](media/image100.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\corememory-660x495.jpg](media/image117.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120577636\_1351697535221816\_1362367022813269424\_n.jpg](media/image118.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\18Forrester-Obit1-superJumbo.jpg](media/media/image100.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\corememory-660x495.jpg](media/media/image117.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120577636\_1351697535221816\_1362367022813269424\_n.jpg](media/media/image118.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\Relationships-in-Urban-Dynamics.png](media/image119.png)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\An-adaptation-of-Forresters-model-of-the-worlds-dynamics-This-map-models-the-dynamics.png](media/image120.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\Relationships-in-Urban-Dynamics.png](media/media/image119.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Forrester\\An-adaptation-of-Forresters-model-of-the-worlds-dynamics-This-map-models-the-dynamics.png](media/media/image120.png)
 ![Diagram Description automatically
-generated](media/image121.png)
+generated](media/media/image121.png)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Forrester\\форестер-уравнения.jpg](media/image122.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Forrester\\форестер-уравнения.jpg](media/media/image122.jpeg)
 
-![](media/image123.jpeg)
+![](media/media/image123.jpeg)
 
 ### Автоматно моделиране.
 
@@ -2922,14 +2925,14 @@ generated](media/image121.png)
 **(Типовите звена са крайни
 автомати)**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120559422\_654791918532379\_8369231871175879883\_n.jpg](media/image124.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120559422\_654791918532379\_8369231871175879883\_n.jpg](media/media/image124.jpeg)
 ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Автоматно
-моделиране\\Автоматно-моделиране-структура-на-модела.jpg](media/image125.jpeg)
+моделиране\\Автоматно-моделиране-структура-на-модела.jpg](media/media/image125.jpeg)
 
 ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Автоматно
-моделиране\\Автоматно-моделиране-блок-схема.jpg](media/image126.jpeg)
+моделиране\\Автоматно-моделиране-блок-схема.jpg](media/media/image126.jpeg)
 ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Автоматно
-моделиране\\Автоматно-моделиране-граф-на-краен-автомат.jpg](media/image127.jpeg)
+моделиране\\Автоматно-моделиране-граф-на-краен-автомат.jpg](media/media/image127.jpeg)
 
 ### Агрегатно моделиране.
 
@@ -2938,12 +2941,12 @@ generated](media/image121.png)
 **(типовите звена са ‚агрегати‘ = параметризируеми
 ‚барбарони‘)**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120754397\_614646205868202\_6909828457690016317\_n.jpg](media/image128.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120754397\_614646205868202\_6909828457690016317\_n.jpg](media/media/image128.jpeg)
 ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Агрегатно
-моделиране\\блок-схема на модела.jpg](media/image129.jpeg)
+моделиране\\блок-схема на модела.jpg](media/media/image129.jpeg)
 
 ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Агрегатно
-моделиране\\Бусленко-агрегатно-моделиране.jpg](media/image130.jpeg)
+моделиране\\Бусленко-агрегатно-моделиране.jpg](media/media/image130.jpeg)
 
 **По части линейно апроксимиран агрегат с дискретно вмешателство на
 случая**
@@ -2973,30 +2976,30 @@ generated](media/image121.png)
 
 **fortran**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120576578\_341236460518440\_5713602408338530991\_n.jpg](media/image131.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Modelirane-корици+кодове\\Fortran-code.jpg](media/image132.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120576578\_341236460518440\_5713602408338530991\_n.jpg](media/media/image131.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Modelirane-корици+кодове\\Fortran-code.jpg](media/media/image132.jpeg)
 
 **Basic/lotus**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120593193\_355238508999086\_6456276754860018159\_n.jpg](media/image133.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Modelirane-корици+кодове\\computer-simulation\\120818813\_327034878587222\_4446974203451919593\_n.jpg](media/image134.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120593193\_355238508999086\_6456276754860018159\_n.jpg](media/media/image133.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Modelirane-корици+кодове\\computer-simulation\\120818813\_327034878587222\_4446974203451919593\_n.jpg](media/media/image134.jpeg)
 
 **pascal**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120607206\_352354282580508\_6856611866647029817\_n.jpg](media/image135.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Modelirane-корици+кодове\\120811847\_355136822591408\_1844528977936841678\_n.jpg](media/image136.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120607206\_352354282580508\_6856611866647029817\_n.jpg](media/media/image135.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Modelirane-корици+кодове\\120811847\_355136822591408\_1844528977936841678\_n.jpg](media/media/image136.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120563055\_391198088572235\_7210635843902177254\_n.jpg](media/image137.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120607670\_667132270582739\_6325845310271524681\_n.jpg](media/image81.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120820169\_681962552698921\_4299454533080135309\_n.jpg](media/image138.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120654756\_1260653414270577\_6606057278471307897\_n.jpg](media/image139.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120563055\_391198088572235\_7210635843902177254\_n.jpg](media/media/image137.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120607670\_667132270582739\_6325845310271524681\_n.jpg](media/media/image81.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120820169\_681962552698921\_4299454533080135309\_n.jpg](media/media/image138.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\120654756\_1260653414270577\_6606057278471307897\_n.jpg](media/media/image139.jpeg)
 
 **C++ поема функциите на
 PL/1**
 
 ### Консултантски фирми по моделиране
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120571016\_424770388925558\_5816885314340616272\_n.jpg](media/image140.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120571016\_424770388925558\_5816885314340616272\_n.jpg](media/media/image140.jpeg)
 
 **сканирана**
 
@@ -3011,8 +3014,8 @@ PL/1**
 **Принцип на черната кутия. Произход на термина.
 **
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\black-box\\black-box-1-1.jpg](media/image38.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\black-box\\Black-box-view-of-System-Identification.png](media/image35.png)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\black-box\\black-box-1-1.jpg](media/media/image38.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\black-box\\Black-box-view-of-System-Identification.png](media/media/image35.png)
 
 Друг възможен подход за синтез на математически описания се основава на
 наблюдения върху влияещите и зависимите променливи. Това е т. нар.
@@ -3024,12 +3027,12 @@ PL/1**
 **Иконометричен
 подход.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120555968\_674895490100993\_7767814704782801490\_n.jpg](media/image141.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-блок-схема.jpg](media/image142.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-иконометрични-уравнения.jpg](media/image143.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Korici\\120555968\_674895490100993\_7767814704782801490\_n.jpg](media/media/image141.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-блок-схема.jpg](media/media/image142.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-иконометрични-уравнения.jpg](media/media/image143.jpeg)
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-иконметрия.jpg](media/image144.jpeg)
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-уравнения.jpg](media/image145.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-иконметрия.jpg](media/media/image144.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури+Корици\\Нейлор\\Нейлор-уравнения.jpg](media/media/image145.jpeg)
 
 **Сравнение на макро моделите на БГ, синтезирани по различни методики.
 ИИ на БАН, Комитет по планиране, СИМУР**
@@ -3043,8 +3046,8 @@ PL/1**
 **СИНТЕЗ НА МОДЕЛИ ЧРЕЗ МНОГОРЕДНИ СЕЛЕКЦИОННИ
 ПРОЦЕДУРИ.**
 
-![G:\\1-DISCIPLINI\\MPU\\1-1-MPU-uch-posobia\\01-MPU\_html\_uchebnik-2012-11\\SintezModeliMnogoredniProced\_files\\image001.gif](media/image146.gif)
-![Diagram Description automatically generated](media/image147.png)
+![G:\\1-DISCIPLINI\\MPU\\1-1-MPU-uch-posobia\\01-MPU\_html\_uchebnik-2012-11\\SintezModeliMnogoredniProced\_files\\image001.gif](media/media/image146.gif)
+![Diagram Description automatically generated](media/media/image147.png)
 
 [**http://bit.ly/mpu-quiz**](http://bit.ly/mpu-quiz)
 
@@ -3140,7 +3143,7 @@ PL/1**
 
 Селекция на броколи.
 
-![26176063\_10154436484607537\_961092187\_n](media/image148.jpeg)
+![26176063\_10154436484607537\_961092187\_n](media/media/image148.jpeg)
 
 Всичко питомно е GMO\!
 
@@ -3172,8 +3175,8 @@ PL/1**
 **СИНТЕЗ НА МОДЕЛИ ЧРЕЗ МНОГОРЕДНИ СЕЛЕКЦИОННИ
 ПРОЦЕДУРИ.**
 
-![G:\\1-DISCIPLINI\\MPU\\1-1-MPU-uch-posobia\\01-MPU\_html\_uchebnik-2012-11\\SintezModeliMnogoredniProced\_files\\image001.gif](media/image146.gif)
-![Diagram Description automatically generated](media/image147.png)
+![G:\\1-DISCIPLINI\\MPU\\1-1-MPU-uch-posobia\\01-MPU\_html\_uchebnik-2012-11\\SintezModeliMnogoredniProced\_files\\image001.gif](media/media/image146.gif)
+![Diagram Description automatically generated](media/media/image147.png)
 
 Селекционен подход: специално внимание в следващите лекции.
 
@@ -3217,7 +3220,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### Fact based world view
 
 ![Graphical user interface, application Description automatically
-generated](media/image149.png)
+generated](media/media/image149.png)
 
 **“МОДЕЛИРАНЕ И ПРОГНОЗИРАНЕ В УПРАВЛЕНИЕТО (МПУ)”**
 
@@ -3244,10 +3247,10 @@ generated](media/image149.png)
 7.  **Добавки от Калоян и Младши: Ръководство за студента за
     motion\_chart\_in\_excelBG**
 
-8.  **Да се изфукам :** ![dollar\_street](media/image150.png)
+8.  **Да се изфукам :** ![dollar\_street](media/media/image150.png)
     [**http://forms.gapminder.org/s3/test-2018**](http://forms.gapminder.org/s3/test-2018)
 
-> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Hans-Rosling\\Gapminder\_certificate\_global\_facts\_2018-page-001.jpg](media/image151.jpeg)
+> ![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Hans-Rosling\\Gapminder\_certificate\_global\_facts\_2018-page-001.jpg](media/media/image151.jpeg)
 > 
 > **Пералнята =\> за резерва.**
 > 
@@ -3275,24 +3278,24 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 практически проблеми. От всички области на живота\! (Като фото
 проявяване).**
 
-![Diagram Description automatically generated](media/image89.png)
+![Diagram Description automatically generated](media/media/image89.png)
 
 **Няма нищо по практично от добрата теория. (уравненията на
 Maxwell):**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\maxvel-equations-integralno.jpg](media/image106.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\maxvel-equations-integralno.jpg](media/media/image106.jpeg)
 
 **Има доказал се емпиричен подход и Learning by Doing:**
 
 ![A picture containing text, monitor, electronics, display Description
-automatically generated](media/image152.png)
+automatically generated](media/media/image152.png)
 
 **Компютрите са нашите кокали. Научният метод е най-големия кокал. 😊**
 
 **Има грандиозна мечта, даваща посоката. Митът за Гилгемеш, плочка
 11.**
 
-![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Гилгемесх.jpg](media/image153.jpeg)
+![C:\\Users\\Transhuman\\Desktop\\2020-09-MPU\\Фигури\\Гилгемесх.jpg](media/media/image153.jpeg)
 
 **Investments in Longevity: тъкмо за изследователски задачи**
 
