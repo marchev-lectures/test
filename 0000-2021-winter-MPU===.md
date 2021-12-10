@@ -2,15 +2,9 @@
 
 **Playlist за МПУ:** 2021-09-27-MPU
 
-<div class="embed-container">
-  <iframe
-      src="https://youtube.com/{{I9G6xJTUCHs}}"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+youtubeId:I9G6xJTUCHs
+
+
 [https://youtube.com/playlist?list=PLX9ryRl9v7BD-PaKbxayefKsDdcN31FUR](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2Fplaylist%3Flist%3DPLX9ryRl9v7BD-PaKbxayefKsDdcN31FUR%26fbclid%3DIwAR3G4JHcM2iCWlhKn-hDya7TD5ZKlAwwg5WmQXHh4WiVRempgcoPPeLqcmU&h=AT08LI66gJlPbBxxXX1qOxJheqIFh4K6vOmp5NDeHvZeh0zc8jeEApcjFh1ccsEw1es5hKH-f2S7gC4FFnsfEcdNTMVfZXZK4SdSRaNeAfnnw1d0S-hCvzBmSZczO0LIoeXzHg)
 
 **Това не е нашата песничка.** [**00-01-Connie** **Francis -** **Que**
