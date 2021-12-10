@@ -4,7 +4,7 @@
 
 <div class="embed-container">
   <iframe
-      src="https://youtube.com/{{playlist?list=PLX9ryRl9v7BD-PaKbxayefKsDdcN31FUR}}"
+      src="https://youtube.com/{{I9G6xJTUCHs}}"
       width="700"
       height="480"
       frameborder="0"
