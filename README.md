@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [lecture1](0000-2021-winter-MPU===.md)
+[BIZ](BIZ_2017.docx.md)
 
 You can use the [editor on GitHub](https://github.com/marchev-lectures/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
